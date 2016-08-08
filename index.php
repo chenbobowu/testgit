@@ -57,7 +57,7 @@ if(isset($_POST['btn-login']))
 </tr>
 <tr>
 <td><a href="register.php">Sign Up Here</a></td>
-<td><a href="#">Test</a></td>
+<td><a href="#">Testing</a></td>
 </tr>
 </table>
 </form>
