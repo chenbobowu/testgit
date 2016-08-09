@@ -1,1 +1,6 @@
-commit changes
+amend commits
+amend commits
+amend commits
+amend commits
+amend commits
+amend commits
