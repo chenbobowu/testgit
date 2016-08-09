@@ -4,3 +4,6 @@ amend commits
 amend commits
 amend commits
 amend commits
+
+
+change 2
