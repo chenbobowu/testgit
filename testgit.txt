@@ -1,9 +1,1 @@
-amend commits
-amend commits
-amend commits
-amend commits
-amend commits
-amend commits
-
-
-change 2
+change git 1
